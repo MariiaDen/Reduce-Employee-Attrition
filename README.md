@@ -29,7 +29,6 @@
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Mariia D. - </span><a href="https://github.com/MariiaDen"><span style="font-weight: 400;">https://github.com/MariiaDen</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Enrico D. - </span><a href="https://github.com/edab"><span style="font-weight: 400;">https://github.com/edab</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Sadmi B. - </span><a href="https://github.com/SadmiB"><span style="font-weight: 400;">https://github.com/SadmiB</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 </ul>
 <h2><span style="font-weight: 400;">DataSet</span></h2>
 <p><span style="font-weight: 400;">The dataset used for this project is the </span><em><span style="font-weight: 400;">HR Analytics Case Study</span></em><span style="font-weight: 400;"> by Vijay Choudhary available through Kaggle [</span><a href="https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study"><span style="font-weight: 400;">Link</span></a><span style="font-weight: 400;">].</span></p>
